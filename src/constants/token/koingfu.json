@@ -1,0 +1,30 @@
+{
+  "name": "KoingFu BSC List",
+  "timestamp": "2022-05-04T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 7,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://koingfu.gitlab.io/images/klogo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    },
+    {
+      "name": "Ki",
+      "symbol": "Ki",
+      "address": "0xDA0bBD2e4F8becAfE4Bc99EDaefb3bfca51AAFc5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://www.marketcap.cash/_next/image?url=%2Fki.png&w=64&q=75"
+    }
+  ]
+}
